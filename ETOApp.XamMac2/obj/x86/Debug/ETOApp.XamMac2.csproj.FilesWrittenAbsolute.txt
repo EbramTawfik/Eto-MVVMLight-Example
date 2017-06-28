@@ -1,0 +1,12 @@
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/obj/x86/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/ETOApp.XamMac2.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/ETOApp.XamMac2.exe
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/obj/x86/Debug/ETOApp.XamMac2.exe
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/obj/x86/Debug/ETOApp.XamMac2.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/Eto.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/Eto.XamMac2.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/ETOApp.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/ETOApp.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/Eto.Serialization.Xaml.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.XamMac2/bin/Debug/Portable.Xaml.dll

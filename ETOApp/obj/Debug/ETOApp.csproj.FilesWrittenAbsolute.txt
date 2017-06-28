@@ -1,0 +1,12 @@
+/Users/etawfik/Projects/ETOApp/ETOApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/etawfik/Projects/ETOApp/ETOApp/obj/Debug/ETOApp.MainForm.xeto
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/ETOApp.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/ETOApp.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/obj/Debug/ETOApp.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/obj/Debug/ETOApp.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/Eto.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/Portable.Xaml.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/Eto.Serialization.Xaml.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/etawfik/Projects/ETOApp/ETOApp/bin/Debug/GalaSoft.MvvmLight.Extras.dll

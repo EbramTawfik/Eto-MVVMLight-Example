@@ -1,0 +1,15 @@
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/ETOApp.Desktop.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/ETOApp.Desktop.exe
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/obj/x86/Debug/ETOApp.Desktop.exe
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/obj/x86/Debug/ETOApp.Desktop.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Eto.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Eto.Gtk2.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Eto.Gtk3.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Eto.WinForms.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Eto.Wpf.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/ETOApp.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/ETOApp.pdb
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Eto.Serialization.Xaml.dll
+/Users/etawfik/Projects/ETOApp/ETOApp.Desktop/bin/Debug/Portable.Xaml.dll
